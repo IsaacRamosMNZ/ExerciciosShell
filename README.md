@@ -3,12 +3,13 @@
 
 Exercicio 1 - Mensagem de Boas-Vindas
 
-<img width="1713" height="918" alt="08976582-a838-42c8-b26b-a8ab4e4def9d" src="https://github.com/user-attachments/assets/6c3124a1-42d6-48f1-8ed7-43fc2561a033" />
+<img width="1600" height="856" alt="35500e09-32c9-4956-94d8-c418cc4bbb80" src="https://github.com/user-attachments/assets/4def8299-0aac-44e6-a28f-a0b0ff4948ae" />
 
 
 Exercício 2 — Saudação com Nome
 
-<img width="1667" height="943" alt="1f50597c-fb8d-4190-ae1e-b2bc77acf3e9" src="https://github.com/user-attachments/assets/2dc11c8a-3f20-4a6a-bd16-d2635b0872b5" />
+<img width="1600" height="905" alt="54e0e897-359a-4e98-b048-4368e703d258" src="https://github.com/user-attachments/assets/a081c747-2cc6-4a86-93d8-3e09d287c3be" />
+
 
 
 Exercício 3 — Soma de Dois Números
