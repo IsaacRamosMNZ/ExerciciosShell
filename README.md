@@ -8,7 +8,7 @@ Exercicio 1 - Mensagem de Boas-Vindas
 
 Exercício 2 — Saudação com Nome
 
-/><img width="1667" height="943" alt="1f50597c-fb8d-4190-ae1e-b2bc77acf3e9" src="https://github.com/user-attachments/assets/2dc11c8a-3f20-4a6a-bd16-d2635b0872b5" />
+<img width="1667" height="943" alt="1f50597c-fb8d-4190-ae1e-b2bc77acf3e9" src="https://github.com/user-attachments/assets/2dc11c8a-3f20-4a6a-bd16-d2635b0872b5" />
 
 
 Exercício 3 — Soma de Dois Números
